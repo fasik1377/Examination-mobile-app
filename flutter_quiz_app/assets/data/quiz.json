@@ -1,0 +1,1150 @@
+[
+  {
+    "id": 1,
+    "title": "Chemistry question",
+    "description": "This is a chemistry quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "What is the meaning of the word atom?",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Not able to be divided",
+            "isCorrect": true
+          },
+          {
+            "text": "Dividable",
+            "isCorrect": false
+          },
+          {
+            "text": "Invisible",
+            "isCorrect": false
+          },
+          {
+            "text": "Hard particles",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Transition metals are",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "good conductors of thermal energy",
+            "isCorrect": true
+          },
+          {
+            "text": "more reactive than alkali metals",
+            "isCorrect": false
+          },
+          {
+            "text": "not good conductors of electric current",
+            "isCorrect": false
+          },
+          {
+            "text": "used to make aluminum",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Where are electrons likely to be found?",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "in the nucleus",
+            "isCorrect": false
+          },
+          {
+            "text": "in electron clouds",
+            "isCorrect": true
+          },
+          {
+            "text": "mixed throughout an atom",
+            "isCorrect": false
+          },
+          {
+            "text": "in definite paths",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "How would you describe the nucleus?",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "dense, negatively charged",
+            "isCorrect": false
+          },
+          {
+            "text": "tiny, negatively charged",
+            "isCorrect": false
+          },
+          {
+            "text": "dense, positively charged",
+            "isCorrect": true
+          },
+          {
+            "text": "mostly empty space, positively charged",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "A carbon atom with 6 protons, 6 electrons, and 6 neutrons would have a mass number of",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "6",
+            "isCorrect": false
+          },
+          {
+            "text": "12",
+            "isCorrect": true
+          },
+          {
+            "text": "18",
+            "isCorrect": false
+          },
+          {
+            "text": "15",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "አማርኛ",
+    "description": "ይህ የአማርኛ ምርጫ ጥያቄ ነው።",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "ወ/ሮ አቻምየለሽ ዛሬ 'ሽምግልና' አለባቸው። በሚለው ዓረፍተነገር ውስጥ በትምህርተ ጥቅስ ውስጥ ያለው ቃል ዐውዳዊ ፍቺው ምንድን ነው? ",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "እርጅና",
+            "isCorrect": false
+          },
+          {
+            "text": "ዳኝነት",
+            "isCorrect": true
+          },
+          {
+            "text": "ድካም",
+            "isCorrect": false
+          },
+          {
+            "text": "ምርቃት",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "'አያት' በሚለው ቃል ውስጥ ያለው 'ያ' ፊደል ላልቶ መነበብ ያለበት በየትኛው ዓረፍተነገር ውስጥ ነው?",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "ከቤተሰቦቿ ጋር ሰብሰብ ብላ አያት።",
+            "isCorrect": false
+          },
+          {
+            "text": "አያት ስለሌላት ደስተኛ ናት።",
+            "isCorrect": true
+          },
+          {
+            "text": "ስትተውን አያት።",
+            "isCorrect": false
+          },
+          {
+            "text": "አያት ግን አላናገራትም",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 03",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 04",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 05",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Science question 06",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Music Quiz 01",
+    "description": "This is a science quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "Music question 01",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 02",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 03",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 04",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Music question 05",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Option A Text",
+            "isCorrect": true
+          },
+          {
+            "text": "Option B Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option C Text",
+            "isCorrect": false
+          },
+          {
+            "text": "Option D Text",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Physics",
+    "description": "This is a physics quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 4,
+    "questions": [
+      {
+        "text": "A 220 V, 100 W bulb is connected to a 110 V source. Calculate the power consumed by the bulb",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "10 W",
+            "isCorrect": false
+          },
+          {
+            "text": "15 W",
+            "isCorrect": false
+          },
+          {
+            "text": "20 W",
+            "isCorrect": false
+          },
+          {
+            "text": "25 W",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "The instrument ________ is used for detecting electric current is",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Galvanometer",
+            "isCorrect": true
+          },
+          {
+            "text": "Tube tester",
+            "isCorrect": false
+          },
+          {
+            "text": "Altimeter",
+            "isCorrect": false
+          },
+          {
+            "text": "Fathometer",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What will be the energy possessed by a stationary object of mass 10 kg placed at a height of 20 m above the ground? (g=10 m/s2)",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "2 J",
+            "isCorrect": false
+          },
+          {
+            "text": "20 KJ",
+            "isCorrect": false
+          },
+          {
+            "text": "2 KJ",
+            "isCorrect": true
+          },
+          {
+            "text": "200 J",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "An ammeter is connected in ______ with the circuit. ",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "parallel",
+            "isCorrect": false
+          },
+          {
+            "text": "series",
+            "isCorrect": true
+          },
+          {
+            "text": "both parallel and series",
+            "isCorrect": false
+          },
+          {
+            "text": "None of the above",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "The formula for finding acceleration is:",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "(v x t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(1/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(W/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(v-u)/t",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Civics and Ethical Education",
+    "description": "This is a Civics and Ethical Education quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 3,
+    "questions": [
+      {
+        "text": "The procedure by which a candidate is nominated for President of the United States is established by",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Congressional legislation.",
+            "isCorrect": false
+          },
+          {
+            "text": "The United States Constitution.",
+            "isCorrect": false
+          },
+          {
+            "text": "The Bill of Rights.",
+            "isCorrect": false
+          },
+          {
+            "text": "Political parties",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "What is one responsibility that modern Presidents have that is NOT described in the Constitution? ",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Commanding the armed forces",
+            "isCorrect": false
+          },
+          {
+            "text": "Proposing an annual budget to Congress",
+            "isCorrect": true
+          },
+          {
+            "text": "Appointing Supreme Court justices",
+            "isCorrect": false
+          },
+          {
+            "text": "Granting pardons",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "which one is not indicator of poverty",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "having access to social service",
+            "isCorrect": true
+          },
+          {
+            "text": "high number of illiteracy",
+            "isCorrect": false
+          },
+          {
+            "text": "weak infrastructural development",
+            "isCorrect": false
+          },
+          {
+            "text": "no enough roads",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "which one of the followin# is not sources responsibility",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "occupation",
+            "isCorrect": false
+          },
+          {
+            "text": "breaking the law",
+            "isCorrect": true
+          },
+          {
+            "text": "promises",
+            "isCorrect": false
+          },
+          {
+            "text": "moral principles",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "The formula for finding acceleration is:",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "(v x t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(1/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(W/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(v-u)/t",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "English",
+    "description": "This is an English quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 5,
+    "questions": [
+      {
+        "text": "The procedure by which a candidate is nominated for President of the United States is established by",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Congressional legislation.",
+            "isCorrect": false
+          },
+          {
+            "text": "The United States Constitution.",
+            "isCorrect": false
+          },
+          {
+            "text": "The Bill of Rights.",
+            "isCorrect": false
+          },
+          {
+            "text": "Political parties",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "What is one responsibility that modern Presidents have that is NOT described in the Constitution? ",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Commanding the armed forces",
+            "isCorrect": false
+          },
+          {
+            "text": "Proposing an annual budget to Congress",
+            "isCorrect": true
+          },
+          {
+            "text": "Appointing Supreme Court justices",
+            "isCorrect": false
+          },
+          {
+            "text": "Granting pardons",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "which one is not indicator of poverty",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "having access to social service",
+            "isCorrect": true
+          },
+          {
+            "text": "high number of illiteracy",
+            "isCorrect": false
+          },
+          {
+            "text": "weak infrastructural development",
+            "isCorrect": false
+          },
+          {
+            "text": "no enough roads",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "which one of the followin# is not sources responsibility",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "occupation",
+            "isCorrect": false
+          },
+          {
+            "text": "breaking the law",
+            "isCorrect": true
+          },
+          {
+            "text": "promises",
+            "isCorrect": false
+          },
+          {
+            "text": "moral principles",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "The formula for finding acceleration is:",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "(v x t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(1/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(W/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(v-u)/t",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Mathematics",
+    "description": "This is a Mathematics quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 6,
+    "questions": [
+      {
+        "text": "The procedure by which a candidate is nominated for President of the United States is established by",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Congressional legislation.",
+            "isCorrect": false
+          },
+          {
+            "text": "The United States Constitution.",
+            "isCorrect": false
+          },
+          {
+            "text": "The Bill of Rights.",
+            "isCorrect": false
+          },
+          {
+            "text": "Political parties",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "What is one responsibility that modern Presidents have that is NOT described in the Constitution? ",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Commanding the armed forces",
+            "isCorrect": false
+          },
+          {
+            "text": "Proposing an annual budget to Congress",
+            "isCorrect": true
+          },
+          {
+            "text": "Appointing Supreme Court justices",
+            "isCorrect": false
+          },
+          {
+            "text": "Granting pardons",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "which one is not indicator of poverty",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "having access to social service",
+            "isCorrect": true
+          },
+          {
+            "text": "high number of illiteracy",
+            "isCorrect": false
+          },
+          {
+            "text": "weak infrastructural development",
+            "isCorrect": false
+          },
+          {
+            "text": "no enough roads",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "which one of the followin# is not sources responsibility",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "occupation",
+            "isCorrect": false
+          },
+          {
+            "text": "breaking the law",
+            "isCorrect": true
+          },
+          {
+            "text": "promises",
+            "isCorrect": false
+          },
+          {
+            "text": "moral principles",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "The formula for finding acceleration is:",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "(v x t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(1/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(W/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(v-u)/t",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Geography",
+    "description": "This is a Geography quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 7,
+    "questions": [
+      {
+        "text": "The procedure by which a candidate is nominated for President of the United States is established by",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Congressional legislation.",
+            "isCorrect": false
+          },
+          {
+            "text": "The United States Constitution.",
+            "isCorrect": false
+          },
+          {
+            "text": "The Bill of Rights.",
+            "isCorrect": false
+          },
+          {
+            "text": "Political parties",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "What is one responsibility that modern Presidents have that is NOT described in the Constitution? ",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Commanding the armed forces",
+            "isCorrect": false
+          },
+          {
+            "text": "Proposing an annual budget to Congress",
+            "isCorrect": true
+          },
+          {
+            "text": "Appointing Supreme Court justices",
+            "isCorrect": false
+          },
+          {
+            "text": "Granting pardons",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "which one is not indicator of poverty",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "having access to social service",
+            "isCorrect": true
+          },
+          {
+            "text": "high number of illiteracy",
+            "isCorrect": false
+          },
+          {
+            "text": "weak infrastructural development",
+            "isCorrect": false
+          },
+          {
+            "text": "no enough roads",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "which one of the followin# is not sources responsibility",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "occupation",
+            "isCorrect": false
+          },
+          {
+            "text": "breaking the law",
+            "isCorrect": true
+          },
+          {
+            "text": "promises",
+            "isCorrect": false
+          },
+          {
+            "text": "moral principles",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "The formula for finding acceleration is:",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "(v x t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(1/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(W/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(v-u)/t",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "History",
+    "description": "This is a History quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 8,
+    "questions": [
+      {
+        "text": "The procedure by which a candidate is nominated for President of the United States is established by",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Congressional legislation.",
+            "isCorrect": false
+          },
+          {
+            "text": "The United States Constitution.",
+            "isCorrect": false
+          },
+          {
+            "text": "The Bill of Rights.",
+            "isCorrect": false
+          },
+          {
+            "text": "Political parties",
+            "isCorrect": true
+          }
+        ]
+      },
+      {
+        "text": "What is one responsibility that modern Presidents have that is NOT described in the Constitution? ",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Commanding the armed forces",
+            "isCorrect": false
+          },
+          {
+            "text": "Proposing an annual budget to Congress",
+            "isCorrect": true
+          },
+          {
+            "text": "Appointing Supreme Court justices",
+            "isCorrect": false
+          },
+          {
+            "text": "Granting pardons",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "which one is not indicator of poverty",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "having access to social service",
+            "isCorrect": true
+          },
+          {
+            "text": "high number of illiteracy",
+            "isCorrect": false
+          },
+          {
+            "text": "weak infrastructural development",
+            "isCorrect": false
+          },
+          {
+            "text": "no enough roads",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "which one of the followin# is not sources responsibility",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "occupation",
+            "isCorrect": false
+          },
+          {
+            "text": "breaking the law",
+            "isCorrect": true
+          },
+          {
+            "text": "promises",
+            "isCorrect": false
+          },
+          {
+            "text": "moral principles",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "The formula for finding acceleration is:",
+        "duration": 60,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "(v x t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(1/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(W/t)",
+            "isCorrect": false
+          },
+          {
+            "text": "(v-u)/t",
+            "isCorrect": true
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Chemistry",
+    "imagePath": "assets/icons/category/physics.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Amharic",
+    "imagePath": "assets/icons/category/amharic.png"
+  },
+  {
+    "id": 3,
+    "name": "Civics",
+    "imagePath": "assets/icons/category/civics.png"
+  },
+  {
+    "id": 4,
+    "name": "Physics",
+    "imagePath": "assets/icons/category/physics1.png"
+  },
+  {
+    "id": 5,
+    "name": "English",
+    "imagePath": "assets/icons/category/english.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mathematics",
+    "imagePath": "assets/icons/category/mathematics.png"
+  },
+  {
+    "id": 7,
+    "name": "Geography",
+    "imagePath": "assets/icons/category/geography.png"
+  },
+  {
+    "id": 8,
+    "name": "History",
+    "imagePath": "assets/icons/category/history.jpg"
+  }
+]
